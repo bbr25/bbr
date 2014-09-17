@@ -8,7 +8,7 @@
  * any later version.  See COPYING for more details.
  */
 
-#include "cpuminer-config.h"
+
 #define _GNU_SOURCE
 
 #include <stdio.h>
