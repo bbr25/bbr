@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>Man City v Stoke (4500 bitrate)</title>
-<f4m>http://nlds6.cdnak.lon.neulion.com/nlds/coliseum/manchestercity/as/live/manchestercity_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=f40087ad7c710b11de81d3f054ed1f69.1461410169|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<title>Bournemouth v Stoke (4500 bitrate)</title>
+<f4m>http://nlds15.cdnak.lon.neulion.com/nlds/coliseum/afcbournemouth/as/live/afcbournemouth_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=f70580bc68c127c7bc9d2cbcaac67ede.1461418638|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
 <thumbnail>https://www.smartdnsproxy.com/UserDocs/news/ck_Barclays-Premier-League-Logo.png</thumbnail>
 </item>
 
 <item>
-<title>Man City v Stoke (1600 bitrate)</title>
-<f4m>http://nlds6.cdnak.lon.neulion.com/nlds/coliseum/manchestercity/as/live/manchestercity_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=f40087ad7c710b11de81d3f054ed1f69.1461410169|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<title>Bournemouth v Stoke (1600 bitrate)</title>
+<f4m>http://nlds15.cdnak.lon.neulion.com/nlds/coliseum/afcbournemouth/as/live/afcbournemouth_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=f70580bc68c127c7bc9d2cbcaac67ede.1461418638|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<thumbnail>https://www.smartdnsproxy.com/UserDocs/news/ck_Barclays-Premier-League-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>Aston Villa v Southampton (4500 bitrate)</title>
+<f4m>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/astonvilla/as/live/astonvilla_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=3a79c7c84331ac01c87da4aac3f19b2f.1461418614|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<thumbnail>https://www.smartdnsproxy.com/UserDocs/news/ck_Barclays-Premier-League-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>Aston Villa v Southampton (1600 bitrate)</title>
+<f4m>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/astonvilla/as/live/astonvilla_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=3a79c7c84331ac01c87da4aac3f19b2f.1461418614|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<thumbnail>https://www.smartdnsproxy.com/UserDocs/news/ck_Barclays-Premier-League-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>Liverpool v Newcastle (4500 bitrate)</title>
+<f4m>http://nlds4.cdnak.lon.neulion.com/nlds/coliseum/liverpool/as/live/liverpool_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=2b9c3b55e63b9e30993fb3ad05bc6b73.1461418592|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<thumbnail>https://www.smartdnsproxy.com/UserDocs/news/ck_Barclays-Premier-League-Logo.png</thumbnail>
+</item>
+
+<item>
+<title>Liverpool v Newcastle (1600 bitrate)</title>
+<f4m>http://nlds4.cdnak.lon.neulion.com/nlds/coliseum/liverpool/as/live/liverpool_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=2b9c3b55e63b9e30993fb3ad05bc6b73.1461418592|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
 <thumbnail>https://www.smartdnsproxy.com/UserDocs/news/ck_Barclays-Premier-League-Logo.png</thumbnail>
 </item>
 
