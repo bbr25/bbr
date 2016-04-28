@@ -1,0 +1,567 @@
+#EXTM3U English
+#EXTINF:0, A&E HD
+http://goo.gl/X9DAx3
+#EXTINF:0, abc
+http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183
+#EXTINF:0, ABC7 USA
+http://93.184.221.133/00573D/1086/1086-0.m3u8
+#EXTINF:0, aerostar tv
+http://www.dailymotion.com/video/x2ghbzf
+#EXTINF:0, AFL Classic
+rtmp://204.107.26.230:8086/live/980.high.stream
+#EXTINF:0, AFL Classic
+rtmp://204.107.26.230:8086/live/980.high.stream
+#EXTINF:0, AFL Classic
+rtmp://204.107.26.230:8086/live/980.high.stream
+#EXTINF:0, AFL Classic
+rtmp://204.107.26.230:8086/live/980.high.stream
+#EXTINF:0, Animal Planet
+http://5.152.199.130/iptv/2A58VZ6Q2V/137/index.m3u8
+#EXTINF:0, animalplanet
+http://luxtivi.k18.us/animalplanet.m3u8
+#EXTINF:0, Animax
+rtmp://110.5.111.166/live/mvanimaxx01
+#EXTINF:0, Ankh
+rtmp://ankhstream.com/hls/ankh
+#EXTINF:0, AP
+http://195.250.60.41:9987/udp/239.100.202.37:3001
+#EXTINF:0, Arab UK
+http://startimes.mine.nu:8080/get.php?username=startimes&password=08012016&type=m3u
+#EXTINF:0, Arab UK FR
+http://electro-tunis.biz:8000/get.php?username=6023&password=6023&type=m3u
+#EXTINF:0, Arab, World
+http://camerta.com:8000/get.php?username=riadh1635&password=chaaben1635&type=m3u
+#EXTINF:0, Atlanta Channel
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/235.m3u8
+#EXTINF:0, BBC One East
+http://217.117.226.215:5000/udp/239.100.15.4:4422
+#EXTINF:0, BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+#EXTINF:0, BBC World
+http://93.184.221.133/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:0, bbc1
+http://www.bbc.co.uk/iplayer/tv/bbc_one_london/watchlive
+#EXTINF:0, Bein + Mix
+http://51.254.46.198:2500/get.php?username=shazad&password=shazad&type=m3u
+#EXTINF:0, Bein + World
+http://beout-iptv.com:7777/get.php?username=123456&password=1234567&type=m3u
+#EXTINF:0, Bein + World
+http://www.q7t1.com:8000/get.php?username=bk8&password=bk8&type=m3u
+#EXTINF:0, Bein Sport, UK
+http://51.254.46.198:2500/get.php?username=bank&password=bank&type=m3u
+#EXTINF:0, Big playlist
+http://iptv-volkan.ddns.net:8000/get.php?username=persian.eagle&password=persian.eagle&type=m3u&output=mpegts
+#EXTINF:0, Bloomberg TV
+http://x4012c4000.edge.core-cdn.net/40000mb/live/4012hbbtv/bloomberg.ts
+#EXTINF:0, British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+#EXTINF:0, British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+#EXTINF:0, BT Sport 1
+http://luxtivi.k18.us/btsport1.m3u8
+#EXTINF:0, C TV
+http://cnmg.live.cdn.bitgravity.com/cnmg/live/ctv
+#EXTINF:0, C-SPAN
+rtmp://$OPT:rtmp-raw=rtmp://cp82346.live.edgefcs.net:1935/live playpath=CSPAN1@14845 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN/" swfVfy=true live=true timeout=10
+#EXTINF:0, C-SPAN 2
+rtmp://$OPT:rtmp-raw=rtmp://cp82347.live.edgefcs.net:1935/live playpath=CSPAN2@14846 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN2/" swfVfy=true live=true timeout=10
+#EXTINF:0, CBEEBIES BBC Four
+rtmp://live1.gv.edge.filmon.com:8086/live/103.high.stream
+#EXTINF:0, cbs
+http://goo.gl/fNGGEU
+#EXTINF:0, CBS2
+http://93.184.221.133/00573D/1084/1084-0.m3u8
+#EXTINF:0, CCTV News
+http://cctv.lsops.net/live/cctv_en_hls.smil/CCTV News.m3u8
+#EXTINF:0, ChelTV
+rtmp://cp96798.live.edgefcs.net/live/ChelTV_Ch01_1000k@26291
+#EXTINF:0, Cinemax
+http://seenow.us/channel.php?n=z00014
+#EXTINF:0, CNBC
+http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+#EXTINF:0, CNN
+rtmp://fms42.mediadirect.ro:1935/live3/_definst_?id=91480487&publisher=2&siteId=0&user_id=0&token=013e721c9ddca5059e646a5d22ed683d78950cd3e382e58a/cnn_low
+#EXTINF:0, CNN
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/5.m3u8
+#EXTINF:0, CNN
+http://phds-live.cdn.turner.com/hds-live-phds/streams/hln_hd/events/_definst_/hln_hd/hln_hd_4_259Seg333613-Frag1334449?als=10.03,8,8.88,3,2456,23705,30.43,4,0,53,f,586.63,600,t,s,EBSCWIHXLGCN,3.4.1,53&hdcore=3.4.1&plugin=aasp-3.4.1.1.1
+#EXTINF:0, CNN Int.
+http://109.233.194.252:5556/udp/224.21.21.60:1234
+#EXTINF:0, CNN US
+http://85.25.246.141:8081/News/CNNHD/playlist.m3u8
+#EXTINF:0, Comedy Central
+http://217.117.226.215:5000/udp/239.100.3.5:4422
+#EXTINF:0, Comedy Central HD (USA)
+http://ORBIT-IPTV.COM:2500/live/meer/meer/2215.ts
+#EXTINF:0, Comedy Central UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Comedy_Central_UK?auth=test+test
+#EXTINF:0, CONSUMING FIRE RADIO
+http://212.48.88.39:8070
+#EXTINF:0, Cricket Channel Live
+http://embed.p2pcast.net/
+#EXTINF:0, CW TV
+rtmp://93.174.95.125:1935/edge/_definst_/qvvkvojlano9hnj
+#EXTINF:0, Dave
+http://pastebin.com/raw/Z4HzL5WQ
+#EXTINF:0, Discovery Channel
+http://5.152.199.130/iptv/2A58VZ6Q2V/140/index.m3u8
+#EXTINF:0, Discovery Channel
+http://217.117.226.215:5000/udp/239.100.3.6:4422
+#EXTINF:0, Discovery Science
+http://5.152.199.130/iptv/2A58VZ6Q2V/136/index.m3u8
+#EXTINF:0, Discovery World
+http://5.152.199.130/iptv/2A58VZ6Q2V/135/index.m3u8
+#EXTINF:0, Dubai One
+http://38.99.146.36:7777/DubaiOne_HD.m3u8
+#EXTINF:0, EN
+http://newone15.ddns.net:8000/get.php?username=potatoes&password=potatoes&type=m3u
+#EXTINF:0, erfzulgaming
+http://www.twitch.tv/erfzulgaming
+#EXTINF:0, ESPN (USA)
+http://bit.do/2X22
+#EXTINF:0, ESPN UK
+http://bstream.starsplanet.org:8000/live/simona1/simona1/1589.ts
+#EXTINF:0, Euronews
+http://ca-edge-4.cdn2.streamago.tv/streamagoedge/1915/808/Euronews.m3u8
+#EXTINF:0, Eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0, Eurosport (EN)
+http://109.95.47.249:1919/udp/239.0.0.33:4000
+#EXTINF:0, ExYU UK
+http://portal.rapidiptv.com:8080/get.php?username=belkhirabdou1&password=belkhirabdou1&type=m3u
+#EXTINF:0, Family Guy
+http://213.254.202.17/flv/52fe9eb169566/testat123?0.8399861175566912
+#EXTINF:0, FASHION BOX
+http://spiinternational-i.akamaihd.net/hls/live/204307/FASHIONBOXHD_MT_HLS/once1200.m3u8
+#EXTINF:0, FashionBox HD
+http://37.228.91.165:8081/boxhd/FashionHD/playlist.m3u8
+#EXTINF:0, FIGHTBOX
+http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8
+#EXTINF:0, FILMON
+http://www.filmon.com/index/popout?channel_id=26&quality=low
+#EXTINF:0, FILMON LIVE
+http://www.filmon.com/index/popout?channel_id=2621&quality=low
+#EXTINF:0, Fort Lauderdale TV
+mms://live.fortlauderdale.gov/live
+#EXTINF:0, fox 12 oregon
+http://new.livestream.com/accounts/6908462/events/2706967
+#EXTINF:0, FOX 5 NEW YORK NEWS
+rtmp://cp156347.live.edgefcs.net/live/WNYW_N1@27995
+#EXTINF:0, FOX Crime
+rtmp://206.190.139.28/live playpath=foxcrime600?id=9078 conn=S:OK swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf pageUrl=http://www.janjua.tv/embedplayer/foxcrime600/1/580/460
+#EXTINF:0, Fox Movies
+rtmp://$OPT:rtmp-raw=rtmp://110.5.111.62/live/ playpath=mvstarx01 swfUrl=http://miru.akulihat.com/2/player/player.swf live=1 pageUrl=http://miru.akulihat.com/2/index2.php?id=5&title=MOVIE
+#EXTINF:0, fox movies
+http://27.254.84.3:1935/live/tdifox.stream/zgs.m3u8
+#EXTINF:0, Fox Movies
+rtmp://$OPT:rtmp-raw=rtmp://173.193.205.94/live playpath=f4rfoxmovies?id=71067 swfUrl=http://www.ucaster.eu/static/scripts/eplayer.swf live=1 pageUrl=http://www.ucaster.eu/ conn=S:OK –live
+#EXTINF:0, Fox Movies
+http://38.99.146.36:7777/FoxMovies_HD.m3u8
+#EXTINF:0, Fox News
+http://50.7.69.186:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821
+#EXTINF:0, Fox Soccer Plus HD
+rtmp://93.174.95.125:1935/edge/_definst_/31j6bqlq8e3wwc5
+#EXTINF:0, FOX TV
+rtmp://$OPT:rtmp-raw=rtmp://37.220.36.8:1935/stream playpath=fox2.stream swfurl=http://www.zonytvcom.info/saki2/player/player-licensed.swf pageurl=http://zonytvcom.info/saki2/embed.php?live=fox2stream
+#EXTINF:0, FRANCE 24
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/39.m3u8
+#EXTINF:0, Fun little movies
+rtmp://204.107.26.229:8086/live/1727.high.stream
+#EXTINF:0, Global TV (ca)
+https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307535~exp=1434308135~acl=/i/*~id=17e92158-bbde-4665-a37c-817c97c7569c~hmac=1afe142fae8d05bad8895371e0834b246ce53e26af2bd6090227741f043668bd
+#EXTINF:0, hbo comedy
+http://goo.gl/luvfqF
+#EXTINF:0, history
+http://84.22.33.22:8028
+#EXTINF:0, History Channel UK
+http://212.250.46.44:8085/udp/239.100.0.129:3001
+#EXTINF:0, In Goa 24x7
+rtmp://stream.mslive.in:1961/live/gub152
+#EXTINF:0, IPTV
+http://minitv.mine.nu:80/get.php?username=tablet&password=tablet&type=m3u
+#EXTINF:0, Italy Germany Playlist
+http://tvservice.broke-it.net:8000/get.php?username=banan&password=banan&type=m3u&output=mpegts
+#EXTINF:0, itv 1
+rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base playpath=itv1tv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=star_pravah&vw=600&vh=450 token=%X886(nPK@#.
+#EXTINF:0, itv 2
+rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base playpath=itv2tv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=aj1&vw=600&vh=450 token=%X886(nPK@#.
+#EXTINF:0, ITV 3
+http://wpc.573d.edgecastcdn.net:80/00573D/live/enc0001/a-itv3/m3u8/a-itv3-1.m3u8
+#EXTINF:0, itv 4
+rtmp://$OPT:rtmp-raw=rtmp://141.8.247.250/base playpath=itv4tv.stream swfUrl=http://141.8.247.250/player/player.swf live=1 pageUrl=http://sportsembed.com/embed.php?v=itv_4&vw=600&vh=450 token=%X886(nPK@#.
+#EXTINF:0, ITV+1
+http://217.117.226.215:5000/udp/239.100.16.4:4422
+#EXTINF:0, ITV1
+http://llnw.live.simplestream.com/mediaexcel01/channel03/3/prog_index.m3u8
+#EXTINF:0, ITV2
+http://llnw.live.simplestream.com/coder12/coder.channels.channel8/hls/3/playlist.m3u8
+#EXTINF:0, ITV3
+rtmp://mi1.gv.filmon.com:8086/live/26.high.stream
+#EXTINF:0, ITV3
+http://llnw.live.simplestream.com/coder12/coder.channels.channel10/hls/3/playlist.m3u8
+#EXTINF:0, iTV4 (UK)
+rtmp://mi1.gv.filmon.com:8086/live/101.high.stream
+#EXTINF:0, JW.Org
+http://tv.jw.org/#en/live/StreamingChildren
+#EXTINF:0, khong hieu
+http://translate.google.com.vn/#en/vi/Stream Databases for Network Measurements
+#EXTINF:0, Lifetime UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Lifetime_UK?auth=test+test
+#EXTINF:0, London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0, Marina Prior - Both Sides Now (Deluxe Version) (2012)
+https://play.spotify.com/user/jaredgalczynski1/collection/album/27rX0AyoCWdvqKEQJrjKMi
+#EXTINF:0, mine
+rtmp://$OPT:rtmp-raw=rtmp://194.116.150.47/live/ playpath=visitx.stream2
+#EXTINF:0, Mix
+http://skyiptv.ddns.net:8000/get.php?username=unit1535&password=84859788&type=m3u
+#EXTINF:0, Mix
+http://iptvfull.ddns.net:3389/get.php?username=gianluca&password=gianluca&type=m3u
+#EXTINF:0, Mix
+http://iptvswarbejo.dyndns.tv:80/get.php?username=maxspeed&password=maxspeed&type=m3u
+#EXTINF:0, Mix
+http://skyiptv.ddns.net:8000/get.php?username=alb&password=alb&type=m3u
+#EXTINF:0, MiX
+http://2streamingiptv.ddns.net:18001/get.php?username=bianco2&password=bianco2&type=m3u
+#EXTINF:0, Mix
+http://cp.dmbshare.net:8000/get.php?username=cotton&password=cotton&type=m3u
+#EXTINF:0, Mix
+http://iptv333.mine.nu:8000/get.php?username=esad&password=esad&type=m3u
+#EXTINF:0, Mix
+http://s1.ukhdtv.com:7860/get.php?username=cQBNHtYOyJ&password=eJ85TlUpdx&type=m3u
+#EXTINF:0, Mix
+http://beout-iptv.com:7777/get.php?username=Mohamed&password=Sallam&type=m3u
+#EXTINF:0, Mix
+http://xtream-codes.no-ip.org:61250/get.php?username=android&password=android&type=m3u
+#EXTINF:0, Mix
+http://62.210.90.119:80/get.php?username=mahir2&password=mahir2&type=m3u
+#EXTINF:0, Mix
+http://176.31.237.228:8000/get.php?username=040520161639&password=040520161639&type=m3u
+#EXTINF:0, Mix
+http://ksportiptv.com:1557/get.php?username=gaz&password=gaz&type=m3u
+#EXTINF:0, MIX M3U
+http://62.210.102.248:8000/get.php?username=volkan1&password=saturdaytest&type=m3u
+#EXTINF:0, Mix M3U
+http://portal.rapidiptv.com:8080/get.php?username=usiptv&password=Bye95WSwSR&type=m3u
+#EXTINF:0, Mix m3u
+http://iptv.ndasat.com:88/get.php?username=jacki&password=jacki&type=m3u
+#EXTINF:0, Mix m3u
+http://pro.1dns1.com:8000/get.php?username=yunus1&password=yunus1&type=m3u
+#EXTINF:0, Modern Greats
+rtmp://195.154.220.115:1935/private/greats
+#EXTINF:0, More4
+rtmp://mi1.gv.filmon.com:8086/live/97.high.stream
+#EXTINF:0, Motorz
+rtmp://mi2.gv.filmon.com:8086/live/262.high.stream
+#EXTINF:0, MSNBC
+http://188.165.12.93:8000/live/nut/nut/5011.ts
+#EXTINF:0, MTV
+http://seenow.us/channel.php?n=z00028
+#EXTINF:0, Nat Geo Wild
+http://5.152.199.130/iptv/2A58VZ6Q2V/133/index.m3u8
+#EXTINF:0, National Geographic
+http://5.152.199.130/iptv/2A58VZ6Q2V/134/index.m3u8
+#EXTINF:0, NBA TV
+http://198.27.94.105/hls/nba____2.m3u8
+#EXTINF:0, nbc
+http://www.playfooty.tv/play/embed.php?u=nbc1569&vw=600&vh=430
+#EXTINF:0, NBC 4 New York
+http://portal.rapidiptv.com:8080/live/Maki/maki/8137.ts
+#EXTINF:0, NBC Golf
+http://zainiptv.zapto.org:1935/zain3/nbcgolf.stream/playlist.m3u8
+#EXTINF:0, NBC4
+http://93.184.221.133/00573D/1085/1085-0.m3u8
+#EXTINF:0, NBP
+rtmp://edge2.tikilive.com:1935/rtmp_tikilive/36221/mainstream
+#EXTINF:0, NDTV
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+#EXTINF:0, News 12 Long Island
+http://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b4e3010000000000/fs-b4e3010000000000/playlist.m3u8
+#EXTINF:0, NHK World
+http://rm-edge-7.cdn2.streamago.tv/streamagoedge/1053/225/NHK World.m3u8
+#EXTINF:0, Nile Sat + UK
+http://tv.dyndns.tv:8000/get.php?username=francy&password=francy&type=m3u
+#EXTINF:0, Pakistan, UK
+http://tabertor.ddns.net:8000/get.php?username=SAEED&password=SAEED&type=m3u
+#EXTINF:0, Pakistan, UK
+http://tabertor.ddns.net:8000/get.php?username=mudassir&password=mudassir&type=m3u
+#EXTINF:0, Pentagon Channel
+rtmp://$OPT:rtmp-raw=rtmp://cp114761.live.edgefcs.net:443/live/ playpath=tpc-live_1@44263 swfUrl="http://www.pentagonchannel.mil/swf/flvPlayer.swf" pageUrl="http://www.pentagonchannel.mil/library.html" swfVfy=true live=true timeout=10
+#EXTINF:0, Pick UK +1
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Pick_UK_+1?auth=test+test
+#EXTINF:0, Playlist
+http://iptv.is-very-nice.org:9705/get.php?username=satsupreme&password=cccam-server.us&type=m3u
+#EXTINF:0, playlist
+http://streamitv.dyndns.org:19001/get.php?username=ferdinando1&password=ferdinando1&type=m3u
+#EXTINF:0, playlist
+http://streamitv.dyndns.org:19001/get.php?username=taip&password=taip&type=m3u
+#EXTINF:0, playlist
+http://91.121.100.18:8000/get.php?username=majid&password=majid&type=m3u
+#EXTINF:0, playlist
+http://5.196.83.164:8000/get.php?username=flora&password=flora&type=m3u
+#EXTINF:0, playlist
+http://tvservice.broke-it.net:8000/get.php?username=je78nyICCW&password=NOJXywa8Ah&type=m3u
+#EXTINF:0, playlist
+http://galaxyiptv.zapto.org:18000/get.php?username=adonis&password=adonis&type=m3u
+#EXTINF:0, Playlist
+http://209.126.110.78:8080/get.php?username=Miguel&password=Miguel&type=m3u
+#EXTINF:0, Popcorn TV
+rtmp://mi2.gv.filmon.com:8086/live/716.high.stream
+#EXTINF:0, Premier Sports
+http://auth.torrent-tv.ru/a/6972/bXdQYjVGZTQxbEpxUkVGOUtSQ3BwblJxaVdZU2paZTN6Z01hK1IveEsvcU02Q2JLTlErS1gzOUh0ZGpibXgxYw
+#EXTINF:0, Prime TV
+rtsp://46.249.213.93/broadcast/primetv-tablet.3gp
+#EXTINF:0, QVC HD
+rtmp://204.107.26.252:8086/live/413.high.stream
+#EXTINF:0, RDS 1 (Canada)
+http://t.co/wGa8q0PDJC
+#EXTINF:0, RlIqP2TNOL
+rtmp://origin.tikilive.com/show_tikilive/36158
+#EXTINF:0, RT (English)
+rtsp://46.249.213.93/broadcast/rt-news-tablet.3gp
+#EXTINF:0, rtmp://myafricanmega.tulix.tv:1935/map-dcongo/map-dcongotv.stream
+rtmp://myafricanmega.tulix.tv:1935/map-dcongo/map-dcongotv.stream
+#EXTINF:0, SCI
+http://goo.gl/XnxSeP
+#EXTINF:0, secuencia radio
+http:// 95.154.254.83:14209
+#EXTINF:0, set
+rtmpe://strm.ukcast.tv/redirect playpath=chhhhc5 swfUrl=http://ukcast.tv/player/player.swf
+#EXTINF:0, showtime
+http://goo.gl/diJ4x5
+#EXTINF:0, Sky #action
+http://s1.livetvindia.co.in/live/SportsTv/SffAGeatIndakkL/110.ts?.1234
+#EXTINF:0, Sky + Movies
+http://techtesters.net:8000/get.php?username=Eamon&password=Eamon&type=m3u
+#EXTINF:0, Sky 1 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_1_UK_+1?auth=test+test
+#EXTINF:0, Sky 2 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_2_UK?auth=test+test
+#EXTINF:0, Sky Arts
+http://37.59.16.4:1935/global/skyarts1.stream/playlist.m3u8
+#EXTINF:0, Sky Arts 2
+http://185.56.30.127:8082/TV4250
+#EXTINF:0, Sky Greats
+http://s1.livetvindia.co.in/live/SportsTv/SffAGeatIndakkL/109.ts?.1234
+#EXTINF:0, Sky Horror
+http://liveontv.k30.us/skyhorror.m3u8
+#EXTINF:0, Sky Living UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Living_UK?auth=test+test
+#EXTINF:0, Sky Movies Action
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=movaction swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/
+#EXTINF:0, Sky Movies Disney
+http://liveontv.k30.us/skymoviesdesney.m3u8
+#EXTINF:0, Sky Movies Modern Greats
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=movgreats swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/
+#EXTINF:0, Sky Movies Premier
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=movprem swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/
+#EXTINF:0, Sky Movies Showcase UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Movies_Showcase_HD?auth=test+test
+#EXTINF:0, Sky Movies Thriller
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.82:1935/live playpath=movthriller swfUrl=http://www.eucast.tv/player5.9.swf live=1 pageUrl=http://www.eucast.tv/
+#EXTINF:0, Sky News
+mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k
+#EXTINF:0, Sky News
+http://ca-edge-3.cdn2.streamago.tv/streamagoedge/34961/28964/Sky News.m3u8
+#EXTINF:0, Sky News
+rtmp://195.154.220.115:1935/private/skynews2014
+#EXTINF:0, Sky One
+http://luxtivi.k18.us/sky1.m3u8
+#EXTINF:0, SKY ONE
+http://136.243.12.170/sky_one_gb.m3u8
+#EXTINF:0, Sky One UK
+rtmp://46.246.124.22:1935/private/_definst_/ playpath=skyone swfUrl=http://www.udemy.com/static/flash/player5.9.swf live=1 pageUrl=http://www.hdcast.org
+#EXTINF:0, Sky Sport 1
+rtmp://195.154.220.115:1935/private/sky12014
+#EXTINF:0, Sky Sport 2
+rtmp://195.154.220.115:1935/private/sky22014
+#EXTINF:0, Sky Sport 3
+rtmp://195.154.220.115:1935/private/sky32014
+#EXTINF:0, Sky Sport 4
+rtmp://195.154.220.115:1935/private/sky42014
+#EXTINF:0, Sky Sport F1
+rtmp://195.154.220.115:1935/private/skyf12014
+#EXTINF:0, Sky Sports 1
+http://127.0.0.1:6878/ace/getstream?id=7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&ErolPazarcik;;;
+#EXTINF:0, Sky Sports F1
+http://luxtivi.k18.us/skyssportf1.m3u8
+#EXTINF:0, Sky Sports News
+http://93.184.221.133/00573D/183/183-0.m3u8
+#EXTINF:0, sky2
+rtmp://198.50.226.53:1935/send/_definst_/sky2
+#EXTINF:0, Skysports1
+rtmp://$OPT:rtmp-raw=rtmpe://46.246.124.85/live/skysports1fifaembed pageUrl=http://www.dcast.tv/
+#EXTINF:0, Skytest
+rtmp://$OPT:rtmp-raw=rtmp://skyradiolivefs.fplive.net/skyradiolive-live playpath=ss001 swfUrl=http://www.skysports.com/flash/RadioplayerEMPv3.swf?v=1 live=1 pageUrl=http://www.skysports.com/radio
+#EXTINF:0, Sony Channel
+rtmp://$OPT:rtmp-raw=rtmp://204.45.157.234/flash/16096 live=1 pageUrl=http://sawlive.tv/
+#EXTINF:0, Sony Movie Channel UK
+http://planetiptv-test.ddns.net:9088/sdtv/uktv/planet/iptv/Sony-Movie-Channel-UK?auth=test+test
+#EXTINF:0, SportsNet360
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:0, SYFY
+http://fw01.livem3u8.me.totiptv.com/live/71f197de056e499a85265c03b44bdab1.m3u8
+#EXTINF:0, TBN
+rtmp://$OPT:rtmp-raw=rtmp://stream1.trinetsolutions.com/tbn/ playpath=tbnworld_high.sdp swfUrl="http://www.tbn.org/flash/tbn_player2_fullscreen.swf" pageUrl="http://www.tbn.org" timeout=10
+#EXTINF:0, TEN ACTION
+http://www.p2pcast.net/ten-action-live-stream-online.php
+#EXTINF:0, tensports
+http://192.99.24.176:8080/tensports/tensp01/index.m3u8
+#EXTINF:0, terisag
+http://viewer.dacast.com/broadcaster/1254/c/1538
+#EXTINF:0, The Office
+http://vaughnlive.tv/111aaacharkoffice
+#EXTINF:0, The Soundtrack Channel
+rtmp://204.107.26.229:8086/live/350.high.stream
+#EXTINF:0, TLC
+http://62.210.206.122:1935/edge/_definst_/iugceoy4o6ljhck/playlist.m3u8?wowzasessionid=1419907929
+#EXTINF:0, tlno
+http://live.tutvgratis.tv/play/01/275/02-2/1457-20160322T213922.ts
+#EXTINF:0, TNT
+http://ys-live.ds.cdn.yousee.tv/iPhone/rtpencoder/e721_wcif.sdp/e721_wcif.sdp-mr2548k.m3u8
+#EXTINF:0, TNT (US)
+http://188.165.12.93:8000/live/nut/nut/3679.ts
+#EXTINF:0, TRAVEL CHANNEL HD
+http://fw01.livem3u8.me.totiptv.com/live/4c136f4cb1fd4f62a583a029c2eb6c77.m3u8
+#EXTINF:0, Tru TV
+http://cdn.live.simplestream.com/coder5/coder.channels.channel2/hls/2/playlist.m3u8
+#EXTINF:0, TSN 1 HD
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+#EXTINF:0, TSN 2 HD
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+#EXTINF:0, TSN 3 HD
+http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
+#EXTINF:0, TSN 4 HD
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
+#EXTINF:0, TSN 5 HD
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+#EXTINF:0, TURBO
+http://103.22.181.87:1935/livetv/TURBO.stream/chengye.m3u8?uttasak,12345
+#EXTINF:0, TV MIAMI MUSIC
+http://74.208.152.93/music/stream3/stream.m3u8
+#EXTINF:0, TV MIAMI MUSIC
+http://74.208.152.93/music/stream3/stream.m3u8
+#EXTINF:0, tv2
+http://212.250.46.41:9987/udp/239.100.0.84:3001
+#EXTINF:0, TV2 Iceland
+rtmp://$OPT:rtmp-raw=rtmp://utsending.visir.is/live/ playpath=vlc.sdp swfUrl=http://visir.is/jwplayer/player59.swf pageUrl=http://visir.is/section/MEDIA99&fileid=LVE
+#EXTINF:0, tvanime24
+rtmp://50.7.78.138:443/live?l6ckHRaWJdyJCJKVpeg5zDP4Sw9CPv8T
+#EXTINF:0, UK
+http://85.25.43.84:8000/get.php?username=UhWJi6MLyr&password=j4P7LhzKVz&type=m3u
+#EXTINF:0, UK
+http://iptv-supplier.com:8000/get.php?username=Sbon&password=Sbon&type=m3u
+#EXTINF:0, UK
+http://31.220.40.87:8000/get.php?username=reissueline12mth&password=Bbh8wYf1ho&type=m3u
+#EXTINF:0, UK
+http://37.187.24.177:80/get.php?username=Hamadil1xa195&password=Hamadil1xa195&type=m3u
+#EXTINF:0, UK +...
+http://89.163.148.31:8000/get.php?username=cotton&password=cotton&type=m3u
+#EXTINF:0, UK Channels
+http://pies.ddns.net:8000/get.php?username=aaa&password=bbb&type=m3u
+#EXTINF:0, UK FR ES
+http://iptv-volkan.ddns.net:8000/get.php?username=Javier&password=Javier&type=m3u
+#EXTINF:0, UK Gold
+rtmp://www.vlctest.eu.pn@198.50.226.53:1935/send/ukgold
+#EXTINF:0, UK IPTV
+http://clay24.webhop.net:8000/get.php?username=mario&password=mario&type=m3u
+#EXTINF:0, UK US
+http://newone15.ddns.net:8000/get.php?username=spuds&password=spuds&type=m3u
+#EXTINF:0, UK, IT
+http://www.t12v.com:8000/get.php?username=naouel&password=naouel&type=m3u
+#EXTINF:0, UK, IT
+http://www.t12v.com:8000/get.php?username=gharbi&password=gharbi&type=m3u
+#EXTINF:0, UK, US, Bangla
+http://www.x-media.tv:58080/get.php?username=Salim&password=satlover.com&type=m3u
+#EXTINF:0, Universal Channel
+rtmp://$OPT:rtmp-raw=rtmp://176.36.121.6/live/LIVETV/UNIVERSAL_FL
+#EXTINF:0, Urban Music Network
+rtmp://204.107.26.230:8086/live/347.high.stream
+#EXTINF:0, US
+http://satloveriptv.com:8090/get.php?username=mexicano&password=mexciano&type=m3u
+#EXTINF:0, US channels
+http://cp.dmbshare.net:8000/get.php?username=tullio&password=tullio&type=m3u
+#EXTINF:0, US M3U
+http://abroadtv.ddns.net:8000/get.php?username=skypeaniptv&password=7000&type=m3u&output=hls
+#EXTINF:0, US M3U
+http://abroadtv.ddns.net:8000/get.php?username=cardshareskype&password=5500&type=m3u&output=hls
+#EXTINF:0, US M3U
+http://abroadtv.ddns.net:8000/get.php?username=skypeglobtv&password=NhBvtYkJfRxQzSeW&type=m3u&output=hls
+#EXTINF:0, US UK Mix
+http://cp.dmbshare.net:8000/get.php?username=slavko&password=slavko&type=m3u
+#EXTINF:0, USA
+http://62.210.248.96:11000/get.php?username=sh&password=sh&type=m3u
+#EXTINF:0, USA
+http://88.223.26.13:4022/udp/239.255.19.46:26495?auth=yes?
+#EXTINF:0, usa network
+http://www.ilive.to/view/46461/CNN-live-stream-chann
+#EXTINF:0, Various
+http://selling-team.net:8000/get.php?username=MATO&password=MATO&type=m3u
+#EXTINF:0, VERIA LIVING
+http://tv-tikilive-hls-live.hls.adaptive.level3.net/hls/135.m3u8
+#EXTINF:0, Vevo HD1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0, Vevo HD2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0, Vevo HD3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0, Viasat Nature HD
+http://5.152.199.130/iptv/2A58VZ6Q2V/203/index.m3u8
+#EXTINF:0, WARNER TV
+rtmp://$OPT:rtmp-raw=rtmp://206.190.140.20/live/warner10?id=1976 swfUrl=http://www.janjua.tv/resources/scripts/eplayer.swf live=1 pageUrl=http://www.janjua.tv/embedplayer/halilou/1/585/385 conn=S:OK --live
+#EXTINF:0, Wealth TV
+rtmp://204.107.26.252:8086/live/403.high.stream
+#EXTINF:0, WealthTV HD
+http://fw01.livem3u8.me.totiptv.com/live/ce9a1585f45d4379970b95308df3f879.m3u8
+#EXTINF:0, What America Thinks
+rtmp://204.107.26.229:8086/live/1759.high.stream
+#EXTINF:0, World
+http://top-iptv.zapto.org:8000/get.php?username=adem&password=adem&type=m3u
+#EXTINF:0, World
+http://iptv.electro-clair.net:8000/get.php?username=zizo&password=zizo&type=m3u
+#EXTINF:0, world
+http://multiuso.no-ip.org:8000/get.php?username=cagnolino&password=sullamaglia&type=m3u
+#EXTINF:0, World
+http://213.136.90.30:8000/get.php?username=christop&password=christop&type=m3u&output=mpegts
+#EXTINF:0, World
+http://tv.kitboxtv.com:8000/get.php?username=amine&password=amine&type=m3u
+#EXTINF:0, World
+http://expertmediatv.ddns.net:14440/get.php?username=Porsche&password=Porsche&type=m3u
+#EXTINF:0, World
+http://iptv333.mine.nu:8000/get.php?username=jonny&password=jonny&type=m3u
+#EXTINF:0, World
+http://ipsatpro.com:8000/get.php?username=000000&password=000000&type=m3u
+#EXTINF:0, World
+http://iptvbox.noip.us:9998/get.php?username=mile&password=skype&type=m3u&output=hls
+#EXTINF:0, World
+http://s1.ukhdtv.com:7860/get.php?username=X0rdg6VW7H&password=xmZLmH0VEn&type=m3u
+#EXTINF:0, World
+http://gigaiptv.pro:8000/get.php?username=carlos&password=carlos&type=m3u&output=mpegts
+#EXTINF:0, World 2
+http://cdn.step-tv.com:8000/get.php?username=nadal&password=nadal&type=m3u
+#EXTINF:0, World channels
+http://portal.rapidiptv.com:8080/get.php?username=VOEd6DhK4B&password=JTjLkcs5Ia&type=m3u
+#EXTINF:0, World channels
+http://iptvstream.dyndns.tv:8000/get.php?username=DavidS&password=DavidS&type=m3u
+#EXTINF:0, world iptv
+http://iptv.x200.in:8000/get.php?username=majid&password=majid&type=m3u
+#EXTINF:0, World IPTV
+http://zizo-rtmp.ddns.net:8000/get.php?username=Alexa&password=Alexa&type=m3u
+#EXTINF:0, World M3U
+http://176.31.237.228:8000/get.php?username=best55877&password=iptv4477&type=m3u
+#EXTINF:0, World M3U
+http://iptv.ndasat.com:88/get.php?username=000001&password=000001&type=m3u
+#EXTINF:0, World M3U
+http://37.187.165.95:34555/get.php?username=ago&password=ago&type=m3u
+#EXTINF:0, World M3U
+http://cp.dmbshare.net:8000/get.php?username=kris&password=kris&type=m3u
+#EXTINF:0, World m3u
+http://hyper.de1-eu.com:8000/get.php?username=abdi&password=abdi&type=m3u
+#EXTINF:0, World mix
+http://iptvdream.dynns.com:2500/get.php?username=facebook1&password=facebook2&type=m3u
+#EXTINF:0, World mix
+http://cp.dmbshare.net:8000/get.php?username=Mark&password=Mark&type=m3u
+#EXTINF:0, World of...
+rtmp://204.107.26.229:8086/live/1016.high.stream
+#EXTINF:0, WWE
+rtmp://77.50.145.30/live
