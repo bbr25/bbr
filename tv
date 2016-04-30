@@ -7,7 +7,7 @@
 </item>
 <item>
 <title>test2</title>
-<link>http://play.uktvnow.net:1935/live/sky1high/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE2IDk6NTE6MzMgQU0maGFzaF92YWx1ZT1oUzN1dFJodUtDKzRmd041YXYxanl3PT0mdmFsaWRtaW51dGVzPTIw</link>
+<f4m>http://play.uktvnow.net:1935/live/sky1low/playlist.f4m?wowzasessionid=901498089&wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE2IDk6NTE6MzMgQU0maGFzaF92YWx1ZT1oUzN1dFJodUtDKzRmd041YXYxanl3PT0mdmFsaWRtaW51dGVzPTIw</f4m>
 <thumbnail></thumbnail>
 </item>
 <item>
