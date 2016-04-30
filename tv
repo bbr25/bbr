@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
+<title>test</title>
+<link>http://37.48.92.162:43911/ls/95/index.m3u8?c=9d2e27bf6777230dd2df3ce8bd338d0041eb8b991c21ff1f3aaea28203e876ba&cid=1462008482&eid=57245c3057da3196916943|Referer=http://h5.adshell.net/flash&User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.103 Safari/537.36</link>
+<thumbnail></thumbnail>
+</item>
+<item>
 <title>HGTV</title>
 <link>plugin://plugin.video.f4mTester/?url=http://www.x-media.tv:58080/live/ali252/satlover.com/1100.ts&amp;streamtype=TSDOWNLOADER|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
 <thumbnail></thumbnail>
