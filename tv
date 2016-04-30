@@ -12,7 +12,7 @@
 </item>
 <item>
 <title>HGTV2</title>
-<link>plugin://plugin.video.f4mTester/?url=http://cp.dmbshare.net:8000/live/ramon/ramon/4570.ts&amp;streamtype=TSDOWNLOADER&maxbitrate=-1|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</link>
+<link>http://cp.dmbshare.net:8000/live/ramon/ramon/4570.ts</link>
 <thumbnail></thumbnail>
 </item>
 <item>
