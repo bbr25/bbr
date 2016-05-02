@@ -1,43 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
-<title>                 [COLOR skyblue][B]PLP[/B][/COLOR][COLOR deepskyblue][B] - 01/05/16[/B][/COLOR]   </title>
+<title>                 [COLOR skyblue][B]PLP[/B][/COLOR][COLOR deepskyblue][B] - 02/05/16[/B][/COLOR]   </title>
 <link>http://ignoreme</link>
 <thumbnail>https://www.smartdnsproxy.com/UserDocs/news/ck_Barclays-Premier-League-Logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime]Swansea v Liverpool - 12:00[/COLOR] [COLOR skyblue](4500 bitrate)[/COLOR]</title>
-<f4m>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/swanseacity/as/live/swanseacity_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=9f1748da87d26749489194e02d1cbfb6.1462103722|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<title>[COLOR lime]Chelsea v Tottenham[/COLOR] [COLOR skyblue](4500 bitrate)[/COLOR]</title>
+<f4m>http://nlds2.cdnak.lon.neulion.com/nlds/coliseum/chelsea/as/live/chelsea_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=dd878c8cebfeabd9900fe1daaa2e0f95.1462215913|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
 <thumbnail>https://www.smartdnsproxy.com/UserDocs/news/ck_Barclays-Premier-League-Logo.png</thumbnail>
 </item>
 
 <item>
-<title>[COLOR lime]Swansea v Liverpool - 12:00[/COLOR] [COLOR skyblue](1600 bitrate)[/COLOR]</title>
-<f4m>http://nlds5.cdnak.lon.neulion.com/nlds/coliseum/swanseacity/as/live/swanseacity_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=9f1748da87d26749489194e02d1cbfb6.1462103722|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
-<thumbnail>https://www.smartdnsproxy.com/UserDocs/news/ck_Barclays-Premier-League-Logo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]Man U v Leicester - 14:05[/COLOR] [COLOR skyblue](4500 bitrate)[/COLOR]</title>
-<f4m>http://nlds4.cdnak.lon.neulion.com/nlds/coliseum/manchesterunited/as/live/manchesterunited_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=4e7f6f6be50f085fa7ea6c5e6d38a619.1462106712|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
-<thumbnail>https://www.smartdnsproxy.com/UserDocs/news/ck_Barclays-Premier-League-Logo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]Man U v Leicester - 14:05[/COLOR] [COLOR skyblue](1600 bitrate)[/COLOR]</title>
-<f4m>http://nlds4.cdnak.lon.neulion.com/nlds/coliseum/manchesterunited/as/live/manchesterunited_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=4e7f6f6be50f085fa7ea6c5e6d38a619.1462106712|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
-<thumbnail>https://www.smartdnsproxy.com/UserDocs/news/ck_Barclays-Premier-League-Logo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]Southampton v Man City - 16:30[/COLOR] [COLOR skyblue](4500 bitrate)[/COLOR]</title>
-<f4m>http://nlds7.cdnak.lon.neulion.com/nlds/coliseum/southampton/as/live/southampton_hd_4500.f4m?nltid=plp&nltdt=6&nltnt=1&h=45ab53289bb70a240824a60fa3bd2a2f.1462114903|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
-<thumbnail>https://www.smartdnsproxy.com/UserDocs/news/ck_Barclays-Premier-League-Logo.png</thumbnail>
-</item>
-
-<item>
-<title>[COLOR lime]Southampton v Man City - 16:30[/COLOR] [COLOR skyblue](1600 bitrate)[/COLOR]</title>
-<f4m>http://nlds7.cdnak.lon.neulion.com/nlds/coliseum/southampton/as/live/southampton_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=45ab53289bb70a240824a60fa3bd2a2f.1462114903|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
+<title>[COLOR lime]Chelsea v Tottenham[/COLOR] [COLOR skyblue](1600 bitrate)[/COLOR]</title>
+<f4m>http://nlds2.cdnak.lon.neulion.com/nlds/coliseum/chelsea/as/live/chelsea_hd_1600.f4m?nltid=plp&nltdt=6&nltnt=1&h=dd878c8cebfeabd9900fe1daaa2e0f95.1462215913|User-Agent=Mozilla/5.0 (iPad; CPU OS 6_0 like Mac OS X) AppleWebKit/536.26 (KHTML, like Gecko) Version/6.0 Mobile/10A5376e Safari/8536.25</f4m>
 <thumbnail>https://www.smartdnsproxy.com/UserDocs/news/ck_Barclays-Premier-League-Logo.png</thumbnail>
 </item>
